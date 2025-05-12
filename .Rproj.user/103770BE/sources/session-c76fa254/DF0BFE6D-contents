@@ -1,0 +1,717 @@
+---
+title: "Final Project"
+author: "Kaynath Chowdhury"
+institute: "University of Pennsylvania"
+date: last-modified
+toc: true
+
+bibliography: references.bib
+csl: chicago-fullnote-bibliography.csl
+
+format: 
+  html:
+    self-contained: true
+
+editor: source
+---
+
+## Introduction
+
+Scholars have long recognized the era of “Pax-Americana” as a period of relative stability for the Western hemisphere and regions where U.S. power has extended.[^1] This is a gross simplification: while Great Power wars have reduced since 1945, the number of violent conflicts, usually intrastate and asymmetrical, has reached a record high since WW2.[^2] The perception that American leadership has, one, prevented major wars between great powers,[^3] and two, has led peacebuilding efforts is terribly flawed. For one, great power competition was the responsibility of Western nations to begin with. Secondly, its efforts to stabilize the Global South are paradoxical—U.S. political and military interventions have often caused many of the issues they wish to solve. For example, much literature points to the failure of the U.S. invasion of Iraq—its false claims of Iraq’s WMDs following the September 11 terrorist attacks and its subsequent intervention in the region simply unleashed the radical rebuilding of the Islamic State of the Caliphate in the Middle East—the creation of ISIS.[^4] This is not the only such case. President Bush marked the Afghanistan War—part of a larger effort known as the Global War on Terror—as an incredible progress of freedom.^[@gwbushlibrary2025afghanistan] However, it is rarely noted that the U.S. funded the Afghan mujahideen during the thick of the Cold War as the guerrilla fighters resisted the Soviet occupation of Afghanistan.^[@maizland2023taliban] This funding then created the Taliban, a terrorist group antithetical to U.S. policies of freedom and democracy. Such case studies raise the consequences of the overreliance on narratives of American hegemony under Pax Americana. In this paper, I hope to reframe our understanding of the international order. This begs the question: “Has U.S. intervention inadvertently fueled the rise of extremist movements?”.
+
+[^1]: @MerriamWebsterPaxAmericana
+
+[^2]: @UNSecurityCouncil2023
+
+[^3]: @Creel2025
+
+[^4]: @israeli2023us
+
+While the current findings do not reach a consensus—some argue the effectiveness of U.S. drone strikes in reducing terrorist activities[^5] while others claim the opposite[^6]—they all point to the imperative of mitigating civilian harm. Based on International Humanitarian Law, military strikes must follow the principles of distinction, proportionality, and precaution. What happens when Western powers, on the basis of proportionality, allow civilian harm, believing the military outcome outweighs the collateral damage? By addressing this, this paper makes a novel contribution to the study of counterterrorism by explicitly linking together levels of violence following indiscriminate civilian harm. Current studies posit counterinsurgency operations in terms of their humanitarian outcomes[^7] or success (or lack thereof) in dismantling extremist organizations;[^8] however, the common thread amongst these findings is the implications of harm to noncombatants. In Iraq, the disproportionate attacks on civilians fueled discontent, encouraging many to take part in insurgent attacks.[^9] While others argue the success of U.S. drone strikes, if indiscriminate, it may preclude the ability of non-combatants to avoid victimization.[^10] Thus, while drone strikes may curb extremist movements, depending on selective or indiscriminate violence, they may fuel radical movements, too.[^11] This analysis reframes the normative implications of U.S. tactical operations to one as a strategic miscalculation.
+
+[^5]: @johnston2016impact
+
+[^6]: @mahmood2023gone
+
+[^7]: @stark2024yemen
+
+[^8]: @abrahms2017leadership
+
+[^9]: @condra2012takes
+
+[^10]: @kocher2011aerial
+
+[^11]: @kocher2011aerial
+
+I test this argument using various data sets, such as the Military Intervention Project (MIP), to isolate civilian harm and its effects. I then examine the rise of extremist violence using a temporal analysis. While my findings may echo the sentiments of research already conducted, the value of this research lies in conducting a comprehensive study on civilian harm. Mitigating civilian harm is not only a moral imperative but also presents a practical solution to improving U.S. counterterrorism strategies.
+
+## Hypothesis
+
+Higher levels of U.S. intervention will likely increase the growth of non-state extremist groups, perpetuating higher levels of violence in the region, particularly when civilian harm occurs. This hypothesis builds on research gathered showing that civilian violence negatively affects the perception of foreign intervention.[^12] Condra & Shapiro recount the words of a young Iraqi boy, Osama Ali, who stated, “When the Americans fire back, they don’t hit the people who are attacking them, only the civilians. This is why Iraqis hate the Americans so much. This is why we love the mujahedeen.”[^13] Such narratives provide examples of how civilian casualties foster resentment against U.S. intervention and, in turn, promote insurgent recruitment, supporting my hypothesis.
+
+[^12]: @condra2012takes
+
+[^13]: @condra2012takes
+
+Current U.S. foreign policy initiatives reflect the broader hope of deterring the provision of  “aid, advocacy, or support for foreign terrorists”—perceived threats to the country’s national security.^[@EO14161] The focus on prevention leads to short-term methods for counteracting terrorism. During the Cold War era, many African dictators used the pretext of Communism to receive U.S. aid to replace the current strongman with themselves.^[@DimantKriegerMeierrieks2023] Evidently, a narrow focus on fighting terrorism, instead of institution-building and economic development, key features of state-building, creates unintended consequences, namely, hostility from local populations and insurgents.^[@DimantKriegerMeierrieks2023] Andrew Byers claims that U.S. intervention in Libya and the removal of Muammar Gaddafi directly contributed to Libya’s status as a failed state.^[@Byers2025Libya] The consequences of intervention are plenty: Libya remains undemocratic and war-torn; in addition, there are high numbers of civilian casualties, widespread displacement, and rising poverty.^[@Byers2025Libya] Like in Iraq, U.S. intervention fueled civilian discontent, culminating in attacks on the U.S. consulate in Benghazi by Libyan Islamist militants.^[@CFRLibyaConflict2024] Again, unintended civilian harm looks to be a critical factor in the rise of extremist groups; in this case, in the region of Libya.
+
+Yet, it is worthwhile to note that some research suggests that military intervention has yielded positive outcomes in certain contexts.^[@johnston2016impact] For instance, targeted drone strikes have decreased levels of violence in certain regions.^[@johnston2016impact] In the case of Pakistan, the removal of high-value individuals, HVIs, weakens terrorist organizations by removing experienced leaders, making them less effective.^[@johnston2016impact] In fact, this contradicts the “blowback” hypothesis I propose, as the authors found no statistically significant increase in attacks following an increase in civilian radicalization.^[@johnston2016impact] However, a key stop-gap exists—the lack of focus on targeted civilian attacks. When civilian harm occurs through indiscriminate attacks, regional violence increases.^[@kocher2011aerial] For the Vietnam War, indiscriminate attacks backfired and increased support for local extremist movements, and the levels of violence perpetrated.^[@kocher2011aerial] Because U.S. forces carried out indiscriminate attacks on hamlets, civilians could not avoid harm by supporting U.S. counter terrorism strategies, which incentived many to support the insurgency for the need of security, instead.^[@kocher2011aerial] 
+
+Simply put, my hypothesis challenges the dominant assumption that, under Pax-Americana, the projection of U.S. military power brings stability. Using the case studies earlier to frame my research, overall, I claim that it is not that all U.S. interventions fuel extremism, but those that involve civilian casualties and disregard humanitarian norms are more likely to spur radicalization. To evaluate my hypothesis, I will combine theoretical frameworks with empirical analysis to examine modern U.S. interventions, placing particular emphasis on the role of civilian harm as a determinant of extremist group growth.
+
+## Data
+
+#### Datasets:
+
+The datasets I plan to use for my Final Project are as follows: The Military Intervention Project (MIP) within the Center for Strategic Studies (CSS), ACLED (Armed Conflict Location & Event Data) with a focus on data from the Middle East and Central Asia, the Bureau of Investigative Journalism on drone wars, and the GTD (Global Terrorism Database). Each dataset provides the disparate information needed to answer the different parts of my research question. 
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(gt)
+
+df <- data.frame(col1 = c("styyear", "Objective", ""),
+                 col2 = c("region", "civilian_targetting", ""),
+                 col3 = c("Drone.strike", "Maximum.civillians.reported.killed", "Date"),
+                 col4 = c("Entity", "Year", "Terrorist.attacks"))
+
+df %>%
+  gt() %>%
+  cols_label(
+    col1 = "MIP Dataset",
+    col2 = "ACELD",
+    col3 = "BIJ",
+    col4 = "Global Terrorism Database"
+  ) %>%
+  tab_header(
+    title = "Table of Variables Used"
+  ) %>%
+  tab_source_note(
+    source_note = "FIGURE 0. Table that displays the variables used and from which dataset they come for the ease of readers."
+  )
+```
+
+The Military Intervention Project (MIP) dataset provides a comprehensive record of U.S. military interventions dating back to 1776. Data is primarily collected through archival research and analysis of government documents, as well as the preexisting dataset, the Militarized Interstate Disputes (MID).^[@kushi2023introducing] I use the “styear” variable from the MIP dataset to count, by year, the number of interventions the U.S. has been involved in since 1798. A qualitative variable is also available, “Objective,” which signals the type of intervention. 
+
+To measure civilian harm, I turn to the ACLED dataset, which systematically collects disaggregated data on political violence and protest across the globe.^[@acled_quality] ACLED data is gathered in real-time, each week, from a wide range of sources.^[@acled_quality] I use this dataset to observe the number of civilian deaths in the Middle Eastern and Central Asian regions. Two countries I notice that overlap amongst the four datasets I use are Yemen and Afghanistan; hence, it can prove worthwhile to simply focus on these two countries as I move forward. The variables I use are “region” to filter by the zones I am interested in and “civilian_targeting” to count the number of times civilians were targeted per violent conflict. 
+
+The BIJ dataset offers an independent accounting of U.S. drone strikes, particularly in Pakistan, Yemen, and Afghanistan.^[@tbij_methodology] Data is compiled through investigative journalism: news reports, statements, documents, and press releases.^[@tbij_methodology] The BIJ dataset serves as a way to measure the number of U.S. drone strikes and civilian deaths over time in Yemen (I have data on Afghanistan available, too). The dataset was filtered based on “Drone.strike.” “Maximum.civilians.reported.killed” provided a way to measure civilian harm, which was then graphed against “Date.” 
+
+To examine the rise of extremist violence, I rely on the GTD, maintained by the START consortium at the University of Maryland.^[@start_gtd_methodology] The GTD collects open-source data on terrorist events worldwide, drawing from media articles, government reports, and research publications.^[@start_gtd_methodology] I used the variables “Entity,” “Year,” and “Terrorist.attacks” from the Global Terrorism Database to filter by the country Yemen to look at the number of terrorist attacks in the region by year.
+
+Lastly, for my covariates and empirical extension I use the following datasets: Our World in Data, which provides information on the democracy index of certain countries, the U.S. Foreign Assistance dataset, which documents foreign aid the U.S. has provided, and data from the World Bank to track GDP.
+
+A key limitation of my datasets is that the key variables relevant to my research question and hypothesis, such as data on drone strikes, only exist amongst a handful of countries, primarily Yemen and Afghanistan. While these datasets can provide robust information needed to analyze my research question for these specific countries, they significantly narrow the geographic scope of my study and the broad generalizations I can draw from my findings. Therefore, the conclusions I draw may not reflect patterns in other regions that have also experienced U.S. interventions. Additionally, many of these datasets rely heavily on media reporting, which may suffer from political biases. Despite these constraints, focusing solely on Yemen and Afghanistan can still yield useful insights, albeit regionally specific, on the relationship between U.S. intervention, civilian harm, and extremist violence.
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+
+# mip data
+mip <- read_excel("C:\\Users\\kayna\\Downloads\\MIP-Dataset_2022.xlsx")
+
+interventions_by_year <- mip %>%
+  filter(!is.na(styear)) %>%
+  group_by(styear) %>%
+  summarise(count = n()) %>%
+  arrange(styear) 
+
+ggplot(data = interventions_by_year, aes(x = styear, y = count)) +
+         geom_line(color = 'blue') + 
+  geom_point(color = 'red') +
+  geom_smooth(color = 'yellow', method = "lm", se = FALSE) +
+         labs(
+           title = "Number of U.S Interventions Over Time",
+           x = "Year",
+           y = "Number of Interventions",
+           caption = "FIGURE 1. U.S. interventions have steadily increased over time. This insight will help contextualize the basis of my research question.") +
+  theme_minimal()
+```
+
+##### Connection to Hypothesis (Figure 1):
+While not directly linked to my hypothesis, it helps contextualize why researching this issue is timely given the increase in U.S. interventions over time—my figure confers with research done in the field already. It sets the foundation for whether heightened intervention correlates with unintended consequences, such as civilian harm and the rise in extremist groups.
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+
+# aceld data
+aceld <- read.csv("C:\\Users\\kayna\\Downloads\\1997-04-01-2025-04-04-Caucasus_and_Central_Asia-Middle_East.csv")
+
+filtered_data <- aceld %>%
+  filter(
+    !is.na(region), 
+    !is.na(civilian_targeting),
+    region %in% c("Middle East", "Caucasus and Central Asia")
+    ) %>%
+  group_by(region) %>%
+  summarise(
+    civilian_targeting_count = sum(civilian_targeting == "Civilian targeting"),
+          prop = round(100 * mean(civilian_targeting == "Civilian targeting"), digits = 1)
+    ) 
+
+filtered_data %>%
+  gt() %>%
+  cols_label(
+    civilian_targeting_count = "Total Number of Civilians Targeted",
+    prop = "Proportion of Civilians Targeted in All Events (%)",
+    region = "Region"
+  ) %>%
+  tab_header(
+    title = "Civilian Targeting by region"
+  ) %>%
+  tab_source_note(
+    source_note = "FIGURE 2. number and proportion of civilian harm. This helps depict the severity of civilian harm and why this is timely issue that must be discussed."
+  )
+```
+
+##### Connection to Hypothesis (Figure 2):
+Figure 2 provides information on the number and proportion of civilian harm in the Middle East and Central Asia. As shown in the table, it is evident that the proportion of civilian harm in the Middle East is almost double that of Central Asia. This supports my hypothesis that an increase in U.S. military intervention is associated with higher levels of harm to noncombatants especially given the higher rate of U.S. intervention in the MENA region. The amplified levels of civilian casualties can give rise to radical and extremist movements.
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+
+# airstrikes data 
+airstrikes <- read.csv("C:\\Users\\kayna\\Downloads\\US strikes in Yemen, 2002 to present - All US actions.csv")
+
+airstrikes_summarized <- airstrikes %>%
+  filter(
+    Drone.strike == 1) %>%
+  mutate(
+    date = str_sub(Date, 7, 10)
+  ) %>%
+  group_by(date) %>%
+  summarise(
+    number_of_strikes = sum(Drone.strike),
+    number_of_civilian_deaths = sum(Maximum.civilians.reported.killed),
+    prop = 100 * (mean(Maximum.civilians.reported.killed))
+  ) %>%
+  arrange(date)
+  
+ggplot(data = airstrikes_summarized) +
+  geom_line(aes(x = as.numeric(date), y = number_of_strikes), color = 'red') +
+  geom_point(aes(x = as.numeric(date), y = number_of_strikes), color = 'black') +
+  geom_line(aes(x = as.numeric(date), y = number_of_civilian_deaths), color = 'blue') +
+  geom_point(aes(x = as.numeric(date), y = number_of_civilian_deaths), color = 'black') +
+  geom_text(aes(x = 2017, y = 60, label = "Red = Number of Strikes"), color = 'red') +
+  geom_text(aes(x = 2017, y = 56, label = "Blue = Number of Civilian Deaths"), color = 'blue') +
+  labs(
+    title = "Number of Strikes & Civilian Deaths Over Time in Yemen",
+    x = "Year",
+    y = "Count",
+    caption = "FIGURE 3. This figre provides information on whether drone strikes in Yemen were related to spikes in the number of civilian casualities."
+  ) +
+  theme_minimal()
+```
+
+##### Connection to Hypothesis (Figure 3):
+Figure 3 reveals that higher levels of drone strikes are correlated with higher levels of civilian harm. This will provide helpful background to compare the levels of civilian deaths following selective and non-selective attacks. The figure illustrates some periods of correlation, though in 2016 the graph reveals a period of inverse correlation. More research must be done to see whether the drone strikes used in this time frame were selective. If so, this would support my hypothesis. 
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+
+# number of terrorist orgs
+terrorist_attacks <- read.csv("C:\\Users\\kayna\\Downloads\\terrorist-attacks\\terrorist-attacks.csv")
+terrorist_attacks_summarized <- terrorist_attacks %>%
+  filter(Entity == "Yemen") %>%
+  group_by(Year) %>%
+  summarise(Attacks = sum(Terrorist.attacks), na.rm = TRUE)
+
+ggplot(data = terrorist_attacks_summarized, aes(x = Year, y = Attacks)) +
+  geom_line(color = 'blue') +
+  geom_smooth(color = 'yellow', method = "lm", se = FALSE) +
+  labs(
+    title = "Number of Terrorist Attacks in Yemen Over Time",
+    x = "Year",
+    y = "Number of Terrorist Attacks",
+    caption = "FIGURE 4. The number of terrorist attacks increased dramatically in 2015, a period after a high number of civilian deaths"
+  ) + 
+  theme_minimal()
+```
+
+##### Connection to Hypothesis (Figure 4):
+Figure 4 in combination with Figure 3 directly supports my hypothesis. Figure 3 shows a spike in civilian harm around 2012 while Figure 4 shows a rise in terrorist attacks in 2015. If the nature of the civilian harm was indiscriminate, then this may have fueled radical activity and the rise of extremist groups, following the period of time after the drone strikes. The increase in attacks suggests that U.S. interventions may not suppress terrorist activity, but inadvertently support it.
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+
+# summary
+summary_table <- data.frame(
+  Variable = c("U.S. Interventions per Year", 
+               "Civilian Deaths from Drone Strikes", 
+               "Terrorist Attacks in Yemen"),
+  
+  Mean = c(
+    round(mean(interventions_by_year$count, na.rm = TRUE), digits = 1),
+    round(mean(airstrikes_summarized$number_of_civilian_deaths, na.rm = TRUE), digits = 1),
+    round(mean(terrorist_attacks_summarized$Attacks, na.rm = TRUE), digits = 1)
+  ),
+  
+  standard_deviation = c(
+    round(sd(interventions_by_year$count, na.rm = TRUE), digits = 1),
+    round(sd(airstrikes_summarized$number_of_civilian_deaths, na.rm = TRUE), digits = 1),
+    round(sd(terrorist_attacks_summarized$Attacks, na.rm = TRUE), digits = 1)
+  ),
+  
+  Min = c(
+    min(interventions_by_year$count, na.rm = TRUE),
+    min(airstrikes_summarized$number_of_civilian_deaths, na.rm = TRUE),
+    min(terrorist_attacks_summarized$Attacks, na.rm = TRUE)
+  ),
+  
+  Max = c(
+    max(interventions_by_year$count, na.rm = TRUE),
+    max(airstrikes_summarized$number_of_civilian_deaths, na.rm = TRUE),
+    max(terrorist_attacks_summarized$Attacks, na.rm = TRUE)
+  )
+)
+
+summary_table %>%
+  gt() %>%
+  tab_header(
+    title = "Summary Statistics for Key Variables"
+  ) %>%
+  cols_label(
+    Variable = "Variable",
+    Mean = "Mean",
+    standard_deviation = "Standard Deviation",
+    Min = "Minimum",
+    Max = "Maximum"
+  ) %>%
+  tab_source_note(
+    source_note = "FIGURE 5. Mean, Standard Deviation, and Range for Intervention, Civilian Harm, and Terrorist Activity"
+  )
+```
+
+## Research Design, Part A:
+The main regression model I hope to use is the following:
+$$
+\text{ExtremistGroups}_{it} = \beta_0 + \beta_1 \text{USIntervention}_{it} + \beta_2 \text{CivilianHarm}_{it} + \beta_3 (\text{USIntervention} \times \text{CivilianHarm})_{it} + \gamma X_{it} + \epsilon_{it}
+$$
+The regression model estimates the number of extremist groups in a given country $i$ and year $t$ as a function of U.S. intervention, civilian harm, and an interaction between the two. U.S. intervention is measured as a binary or count variable reflecting the presence of military actions such as drone strikes or invasions. Civilian harm is measured by the number of civilian casualties associated with U.S. intervention. An interaction term $USIntervention_{it} \times CivilianHarm_{it}$ is included to capture the compounded effect of intervention when civilian harm occurs. The model also controls for confounding variables, represented as a vector $X_{it}$, which includes GDP per capita and regime type (e.g., polity score). Year fixed effects are added to account for global temporal trends. The error term $\epsilon_{it}$ captures unobserved factors that influence the number of extremist groups.
+
+In my analysis, I plan to include several key covariates. First, GDP per capita serves as a proxy for economic conditions, which may influence both the likelihood of U.S. involvement and the propensity for individuals to join insurgent movements as a means of economic survival. Second, the polity score (or democracy index) captures geopolitical alignment and regime type, both of which can shape the rationale behind U.S. intervention and potentially affect the emergence of extremist responses as alternative channels for political expression. Lastly, I include region fixed effects, using global regional classifications to account for unobserved heterogeneity and shared regional characteristics that may otherwise bias the results.
+
+My hypothesis states a causal relationship between U.S. intervention (especially in the context of civilian harm) and the rise of extremist groups. There are some key threats to interpreting the coefficient of my primary independent variable as causal. These include: (1) the potential for reverse causality, where the U.S. may intervene because of increasing extremist violence; (2) the heterogeneity of interventions, such as economic, advisory missions, or full-scale invasion, which may produce different effects; (3) measurement error where civilian deaths may be underreported or inconsistently recorded, misrepresenting the relationship. Some unobserved confounders: media attention, which could attract more U.S. engagement and better documentation of civilian harm, geographic features that could make a country more prone to insurgency, and the implications of colonial legacies, to list a few. 
+
+## Research Design, Part B:
+To add credibility to my inference, I will conduct two empirical extensions to rule out potential confounders between my independent and dependent variables. First, I will restrict my sample size to only countries experiencing periods of political instability or conflict prior to U.S. intervention. This aids in ruling out pre-existing conflicts as a confounding variable. Already, my datasets focus on countries like Yemen and Afghanistan that have faced institutional weakness before large-scale U.S. involvement. As such, I can better isolate the effects of intervention itself versus weak state infrastructure. If there is a rise in extremist movements following U.S. intervention in these weak states, then it becomes more plausible to contribute this observation to my findings.
+
+Second, I will limit my data collection to only military interventions instead of other forms, like economic, diplomatic, and advisory. U.S. intervention begets a multitude of possibilities, with some having more significant effects on extremist activities than others. As my interests lie with civilian harm, focusing mainly on military interferences is an extension of this. This rules out the heterogeneity of interventions as a confounder. If there exists a positive relationship in my variables within this subset of interventions, it strengthens my hypothesis that violent interventions prompting civilian harm are central to fortifying extremist movements. 
+
+However, it can prove helpful to include “placebo” tests, as well. Therefore, I will conduct a regression analysis with exclusively economic interventions to isolate the differences between economic and military involvement. If the number of extremist groups increases following the provision of foreign aid, this weakens my hypothesis. It may then be the case that civilian harm is not a potential risk factor for the spread of extremism.
+
+## Findings
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+library(scales)
+library(modelsummary)
+
+# my yemen airstrikes dat
+yemen <- read.csv("C:\\Users\\kayna\\Downloads\\US strikes in Yemen, 2002 to present - All US actions.csv")
+
+yemen_clean <- yemen %>%
+  filter(Drone.strike == 1) %>%
+  mutate(
+    Year = as.numeric(str_sub(Date, 7, 10)),
+    Country = "Yemen"
+  ) %>%
+  group_by(Year, Country) %>%
+  summarise(
+    number_of_strikes = sum(Drone.strike, na.rm = TRUE),
+    number_of_civilian_deaths = sum(Maximum.civilians.reported.killed, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# afghanistan airstrikes data
+afghanistan <- read.csv("C:\\Users\\kayna\\Downloads\\Afghanistan_ US air and drone strikes, 2015 to present - Bureau data_ US strikes.csv")
+
+afghanistan_clean <- afghanistan %>%
+  filter(US.confirmed. == 1) %>%
+  mutate(
+    Year = as.numeric(str_sub(Date, 7, 10)),
+    Country = "Afghanistan"
+  ) %>%
+  group_by(Year, Country) %>%
+  summarise(
+    number_of_strikes = sum(US.confirmed., na.rm = TRUE),
+    number_of_civilian_deaths = sum(Maximum.civilians.reported.killed, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# combining data
+combined_strikes <- bind_rows(yemen_clean, afghanistan_clean)
+
+# terrorist attack data
+attacks <- read.csv("C:\\Users\\kayna\\Downloads\\terrorist-attacks\\terrorist-attacks.csv")
+
+attacks_clean <- attacks %>%
+  filter(Entity %in% c("Yemen", "Afghanistan")) %>%
+  rename(Country = Entity) %>%
+  group_by(Year, Country) %>%
+  summarise(Attacks = sum(Terrorist.attacks, na.rm = TRUE), .groups = "drop")
+
+# merge airstrike and attack data
+merged_data <- left_join(combined_strikes, attacks_clean, by = c("Year", "Country"))
+
+# prep gdp data
+gdp <- read.csv("C:\\Users\\kayna\\Downloads\\API_NY.GDP.PCAP.CD_DS2_en_csv_v2_85121\\API_NY.GDP.PCAP.CD_DS2_en_csv_v2_85121.csv", skip = 4)
+gdp_long <- gdp %>%
+  filter(Country.Name %in% c("Yemen, Rep.", "Afghanistan")) %>%
+  pivot_longer(cols = starts_with("X19") | starts_with("X20"),
+               names_to = "Year", values_to = "GDP_per_capita") %>%
+  mutate(
+    Year = as.numeric(sub("X", "", Year)),  # remove the 'X' and convert to numeric
+    Country = ifelse(Country.Name == "Yemen, Rep.", "Yemen", "Afghanistan")
+  ) %>%
+  select(Country, Year, GDP_per_capita) %>%
+  filter(Year >= 1990)
+
+# polity data
+democracy <- read.csv("C:\\Users\\kayna\\Downloads\\democracy-index-polity\\democracy-index-polity.csv")
+democracy_clean <- democracy %>%
+  filter(Entity %in% c("Afghanistan", "Yemen")) %>%
+  rename(Country = Entity)
+
+# merge gdp and democracy
+contextual_data <- left_join(gdp_long, democracy_clean, by = c("Country", "Year"))
+
+# final merge
+final_data <- left_join(merged_data, contextual_data, by = c("Country", "Year"))
+
+# run regressions
+model_one <- lm(Attacks ~ number_of_strikes, data = final_data)
+
+model_two <- lm(Attacks ~ number_of_strikes + number_of_civilian_deaths, data = final_data)
+
+model_three <- lm(Attacks ~ number_of_strikes * number_of_civilian_deaths, data = final_data)
+
+model_four <- lm(Attacks ~ number_of_strikes * number_of_civilian_deaths + GDP_per_capita + Democracy + Country + Year, data = final_data)
+
+# summary data
+
+models <- list(
+  "U.S. Strikes" = model_one,
+  "U.S. Strikes + Civilian Harm Confounder"   = model_two,
+  "U.S. Strikes + Civilian Harm Interaction"    = model_three,
+  "U.S. Strikes + Civilian Harm Interaction Along with Covariates"    = model_four
+)
+
+modelsummary(models,
+             output = "gt",        
+             stars = TRUE,
+             statistic = "std.error",  
+             gof_omit = "IC|Log|F|RMSE",  
+             title = "Regression Results",
+             coef_rename = c(
+               "GDP_per_capita" = "GDP per Capita",
+               "CountryYemen" = "Yemen (vs. Afghanistan)",
+               "Democracy" = "Democracy Index",
+               "number_of_strikes" = "Number of Drone Strikes",
+               "number_of_civilian_deaths" = "Number of Civilian Deaths",
+               "number_of_strikes:number_of_civilian_deaths" = "Interaction Term")
+             )
+```
+##### Regression Model:
+I present four regression models that explore how U.S. military strikes and civilian harm relate to extremist attacks in Yemen and Afghanistan. In the final model, which includes the interaction term and covariates, the coefficient on the number of strikes is 7.845, while the number of civilian deaths has a coefficient of -5.302. The interaction term between the two is -0.046. Indeed, a coefficient of nearly 8 suggests that, holding all else constant, each additional strike is associated with roughly eight more extremist attacks. While this seems meaningful, it is not statistically significant (p = 0.49), which weakens the confidence I can have in the effect.
+
+The lack of statistical significance across my key variables may be due to low statistical power. My sample is small (N = 13), largely because of missing data in the GDP and democracy variables. This low power makes it difficult to detect real effects even if they exist. Moreover, multicollinearity—especially with variables like civilian deaths and their interaction with strikes—may increase standard errors and mask potential relationships.
+
+I included four models in total. The first is a simple bivariate regression of number of strikes on attacks, showing a positive coefficient (0.456) but no statistical significance. The second adds civilian deaths as a control, flipping the direction of the strikes coefficient to negative (-0.720), suggesting possible omitted variable bias in Model 1. The third model introduces the interaction term between strikes and civilian deaths; the interaction is negative (-0.009) and statistically significant at the 0.05 level, suggesting that strikes that cause more civilian harm are less associated with subsequent attacks—very different that what I had originally assumed. However, when I add GDP per capita, democracy score, year, and country fixed effects in the final model, the interaction loses significance—likely due to reduced power and increased noise. Together, these models provide a more complete understanding of the relationship between intervention and extremism, which seems to have a low correlation, specifically in the regions of Yemen and Afghanistan.
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+
+# my model coefficients
+intercept <- -69810.268
+b_strikes <- 7.845
+b_deaths <- -5.302
+b_gdp <- 0.305
+b_demo <- -36.628
+b_yemen <- -1397.161
+b_year <- 35.426
+b_interaction <- -0.046
+
+# simulating data
+data <- tibble(
+  number_of_strikes = c(5, 10, 15, 20),
+  number_of_civilian_deaths = c(10, 20, 30, 40),
+  GDP_per_capita = c(500, 1000, 1500, 2000),
+  Democracy = c(0, 1, 2, 3),
+  Country = c("Afghanistan", "Yemen", "Afghanistan", "Yemen"),
+  Year = c(2005, 2010, 2015, 2020)
+) %>%
+  mutate(
+    is_yemen = if_else(Country == "Yemen", 1, 0),
+    interaction = number_of_strikes * number_of_civilian_deaths,
+    Predicted_Attacks = intercept +
+      b_strikes * number_of_strikes +
+      b_deaths * number_of_civilian_deaths +
+      b_gdp * GDP_per_capita +
+      b_demo * Democracy +
+      b_yemen * is_yemen +
+      b_year * Year +
+      b_interaction * interaction
+  )
+
+# my predicted values as a plot
+ggplot(data, aes(x = Year, y = Predicted_Attacks, color = Country)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2) +
+  labs(
+    title = "Predicted Number of Terrorist Attacks Over Time",
+    x = "Year",
+    y = "Predicted Terrorist Attacks",
+    caption = "FIGURE 7. Predictions based on regression coefficients."
+  ) +
+  theme_minimal()
+```
+##### Connection to Hypothesis (Figure 7):
+The predicted values plot shows how the expected number of terrorist attacks changes over time in Yemen and Afghanistan, based on my regression model, which includes U.S. strikes, civilian harm, and a set of covariates. Although my hypothesis predicted that U.S. intervention—particularly when it results in civilian casualties—would contribute to the rise of extremist violence, the plot does not provide clear support for that claim.
+
+While the plot shows variation in predicted attacks across years and between countries, the predicted values are largely driven by the country and year variables, not by the number of strikes or civilian deaths. The trend line in Afghanistan appears steeper, but this likely reflects broader time-based dynamics or unmeasured country-specific factors, rather than the impact of intervention or harm. In Yemen, predicted values remain lower overall, aligning with the negative coefficient on the Yemen dummy variable.
+
+Importantly, the lack of strong upward trends in predicted attacks specifically tied to increased strikes or civilian harm challenges the idea that U.S. intervention is a consistent driver of extremism in this dataset. This visualization, paired with my regression output, suggests that the effect of strikes—particularly when controlling for other variables—is not statistically significant and does not consistently elevate the risk of extremist violence.
+
+```{r}
+#| echo: false
+#| warning: false
+
+# a time-series line plot 
+final_data_filtered <- final_data %>%
+  filter(Year >= 2005)
+
+ggplot(final_data_filtered, aes(x = Year)) +
+  geom_line(aes(y = number_of_strikes, color = "Strikes")) +
+  geom_line(aes(y = number_of_civilian_deaths, color = "Civilian Deaths")) +
+  geom_line(aes(y = Attacks, color = "Terrorist Attacks")) +
+  facet_wrap(~ Country, scales = "free_y") +
+  scale_x_continuous(breaks = seq(2010, 2022, 2)) +  
+  labs(
+    title = "Strikes, Civilian Deaths, and Terrorist Attacks Over Time",
+    y = "Count",
+    x = "Year",
+    color = "Variable",
+    caption = "FIGURE 8. Time trends by country showing U.S. strikes, civilian casualties, and the number of terrorist attacks."
+  ) +
+  scale_color_manual(values = c("Strikes" = "red", "Civilian Deaths" = "blue", "Terrorist Attacks" = "black")) +
+  theme_minimal()
+
+```
+##### Connection to Hypothesis (Figure 8):
+This time series plot provides a visual way to assess my core hypothesis: that U.S. military intervention, particularly when it results in civilian casualties, contributes to the rise of extremist violence.
+
+In Afghanistan, there’s a sharp spike in both strikes and civilian casualties around 2018–2019, but that increase does not correspond with a clear or immediate surge in terrorist activity. Terrorist attacks remain high overall, but their fluctuations do not appear to directly mirror the changes in U.S. military behavior, which contradicts the idea that civilian harm alone fuels radicalization or extremist retaliation.
+
+In Yemen, we see a slightly different story. Civilian deaths and U.S. strikes remain relatively low and stable throughout the years, while terrorist attacks initially rise and then begin to decline. Again, the patterns don’t suggest a strong or consistent link between intervention and increased violence. If anything, the drop in attacks despite continued strikes complicates the original hypothesis.
+
+Overall, the visualization reinforces what my regression analysis already hinted at: while U.S. intervention may be part of the story, it's not the sole or even the dominant factor explaining the rise in extremist violence.
+
+## Empirical Extension
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+library(scales)
+
+data <- read.csv("C:\\Users\\kayna\\Downloads\\us_foreign_aid_country.csv")
+
+# converting to numeric values
+data$Fiscal.Year <- as.numeric(data$Fiscal.Year)
+
+# my time plot
+filtered_dat <-
+  data %>%
+  filter(Country.Name %in% c("Yemen", "Afghanistan"), Fiscal.Year > 1990) %>%
+  group_by(Fiscal.Year, Country.Name) %>%
+  summarise(amount = sum(current_amount, na.rm = TRUE), .groups = "drop")
+
+ggplot(data = filtered_dat, aes(x = Fiscal.Year, y = amount, color = Country.Name)) +
+  geom_line() +
+  labs(
+    title = "U.S. Foreign Aid by Year in Yemen and Afghanistan",
+    x = "Fiscal Year",
+    y = "Foreign Aid (Current USD)",
+    color = "Country",
+    caption = "FIGURE 9. U.S. foreign aid in Yemen and Afghanistan over time"
+  ) +
+  scale_y_continuous(labels = label_number(scale = 1, big.mark = ",")) +
+  theme_minimal()
+```
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+library(scales)
+
+# my datasets
+aid_data <- read.csv("C:\\Users\\kayna\\Downloads\\us_foreign_aid_country.csv")
+terrorist_attacks_two <- read.csv("C:\\Users\\kayna\\Downloads\\terrorist-attacks\\terrorist-attacks.csv")
+
+# making sure the year var is an int
+aid_data$Fiscal.Year <- as.numeric(aid_data$Fiscal.Year)
+
+# summarizing by year and country
+aid_summary <- aid_data %>%
+  filter(Country.Name %in% c("Yemen", "Afghanistan"), Fiscal.Year > 1990) %>%
+  group_by(Fiscal.Year, Country.Name) %>%
+  summarise(current_aid = sum(current_amount, na.rm = TRUE), .groups = "drop")
+
+# renaming my columns for merging
+terrorist_attacks_two <- terrorist_attacks_two %>%
+  rename(
+    Fiscal.Year = Year,
+    Country.Name = Entity,
+    Attacks = Terrorist.attacks
+  )
+
+# filtering
+attack_summary <- terrorist_attacks_two %>%
+  filter(Country.Name %in% c("Yemen", "Afghanistan"), Fiscal.Year > 1990)
+
+# merging
+merged_data <- left_join(aid_summary, attack_summary, by = c("Fiscal.Year", "Country.Name"))
+
+# log-transforming aid to reduce skewness
+merged_data <- merged_data %>%
+  mutate(log_aid = log1p(current_aid))
+
+# my regression
+model <- lm(Attacks ~ log_aid + Country.Name, data = merged_data)
+modelsummary(model,
+             output = "gt",        
+             stars = TRUE,
+             statistic = "std.error",  
+             gof_omit = "IC|Log|F|RMSE",  
+             title = "Regression Results",
+             coef_rename = c(
+               "log_aid" = "Log of Foreign Aid",
+               "Country.NameYemen" = "Yemen (vs. Afghanistan)")
+)
+```
+
+##### Regression Model Findings - Empirical Extension:
+To test my hypothesis, I ran a regression using foreign aid (logged) as the key independent variable and the number of terrorist attacks as the dependent variable, with a control for country. Overall, I expected that increased U.S. foreign aid—if tied to militarized influence or perceived intervention—would correlate with a rise in terrorist activity, especially in fragile regions. However, the model reveals a different story.
+
+The coefficient on the log of foreign aid is 148.48 and statistically significant at the p < 0.001 level. This suggests that a one-unit increase in the logged aid amount is associated with approximately 148 more terrorist attacks, all else equal. This is a large substantive effect—an increase in aid seems strongly associated with an increase in attacks. However, it is important to note that aid is likely correlated with instability; the U.S. tends to give more when countries are already in crisis, meaning aid may be reactive rather than causal. This could explain the strong coefficient.
+
+The coefficient for Yemen is -108.86, suggesting Yemen experiences fewer attacks on average compared to Afghanistan, but this effect is not statistically significant. This aligns with the visualization of predicted values, where Afghanistan’s predicted attacks are consistently higher. It’s also worth noting that the R² is 0.501, meaning roughly half the variance in attacks is explained by this model.
+
+Still, despite the significant coefficient on aid, the hypothesis that U.S. involvement fosters extremism isn’t clearly supported. The model doesn’t differentiate between types of aid or intent behind it. Thus, while a statistical relationship exists, the mechanism behind it remains unclear. More variables—or better measures of U.S. influence—would strengthen this test’s power and clarify its interpretation.
+
+```{r}
+#| echo: false
+#| warning: false
+
+library(tidyverse)
+library(ggplot2)
+library(gt) 
+library(readxl)
+library(scales)
+
+# load, filter, and merge data again
+aid_data <- read.csv("C:\\Users\\kayna\\Downloads\\us_foreign_aid_country.csv")
+terror_data <- read.csv("C:\\Users\\kayna\\Downloads\\terrorist-attacks\\terrorist-attacks.csv")
+
+aid_data$Fiscal.Year <- as.numeric(aid_data$Fiscal.Year)
+aid_summary <- aid_data %>%
+  filter(Country.Name %in% c("Yemen", "Afghanistan"), Fiscal.Year > 1990) %>%
+  group_by(Fiscal.Year, Country.Name) %>%
+  summarise(current_aid = sum(current_amount, na.rm = TRUE), .groups = "drop")
+
+terror_data <- terror_data %>%
+  rename(Fiscal.Year = Year, Country.Name = Entity, Attacks = Terrorist.attacks) %>%
+  filter(Country.Name %in% c("Yemen", "Afghanistan"), Fiscal.Year > 1990)
+
+merged_data <- left_join(aid_summary, terror_data, by = c("Fiscal.Year", "Country.Name"))
+
+# compute log of aid
+merged_data <- merged_data %>%
+  mutate(
+    log_aid = log1p(current_aid),
+    is_yemen = if_else(Country.Name == "Yemen", 1, 0)
+  )
+
+# using my model's coefficients to predict
+merged_data <- merged_data %>%
+  mutate(
+    predicted_attacks = -2443.25 + 148.48 * log_aid + (-108.86) * is_yemen
+  )
+
+# my plots, predicted vs actual
+ggplot(merged_data, aes(x = Fiscal.Year)) +
+  geom_line(aes(y = predicted_attacks, color = Country.Name), linetype = "dashed") +
+  geom_point(aes(y = Attacks, color = Country.Name)) +
+  geom_line(aes(y = Attacks, color = Country.Name)) +
+  labs(
+    title = "Actual vs. Predicted Terrorist Attacks by Year",
+    x = "Fiscal Year",
+    y = "Number of Attacks",
+    color = "Country",
+    caption = "FIGURE 10. Dashed lines represent predicted attack counts, while solid lines show actual recorded incidents. "
+  ) +
+  theme_minimal()
+```
+##### Connection to Hypothesis (Figure 10):
+At first glance, the predicted values show a general upward trend, particularly in Afghanistan. Interestingly, this increase in terrorist activity appears to be more closely associated with rising levels of U.S. foreign aid rather than with military intervention. This runs counter to my initial hypothesis, which assumed that airstrikes—especially those resulting in civilian casualties—would be the primary catalyst for extremism. Instead, the model indicates a strong positive correlation between economic aid and terrorist activity, complicating the conventional understanding of aid as a stabilizing force.
+
+However, these findings should be interpreted with caution. The upward trend in predicted attacks may reflect broader patterns of instability or structural conditions that simultaneously drive violence and attract aid. Moreover, while the model fits the data relatively well, it fails to capture the sharp spikes in attacks observed between 2010 and 2015 in Afghanistan, pointing to the likely influence of unmeasured variables such as regime transitions, troop surges, or local political dynamics.
+
+Ultimately, the results challenge the simplicity of my original argument. Rather than dismissing the hypothesis entirely, the analysis encourages a more nuanced view: U.S. engagement—whether military or economic—may be perceived as intrusive or illegitimate in certain contexts, thereby contributing to extremist responses through less direct or unintended pathways.
+
+## Discussion and Policy Implications
+From my final project, I learned that the relationship between U.S. intervention and extremist violence is more complex than I initially expected. My hypothesis was that U.S. military intervention, especially when it results in civilian casualties, would lead to an increase in the number of extremist groups or terrorist attacks. This idea was rooted in prior literature suggesting that foreign intervention often fuels anti-state sentiment and provides recruitment opportunities for extremist organizations. However, my regression models and predicted values plots did not offer strong support for this claim.
+
+While the number of U.S. strikes had a positive coefficient in several models, the effect was not consistently statistically significant. The interaction term between civilian deaths and strikes—intended to capture the compounded effect of harm—was also insignificant in the full model. When I added covariates like GDP per capita, democracy score, year, and country fixed effects, the effect of strikes became even less clear. These results suggest that although U.S. strikes may play a role, other factors—such as broader political instability, economic conditions, or existing governance structures—likely have more influence on the rise of extremism.
+
+That being said, my empirical extension, which tested whether economic aid had similar effects, helped clarify things. The placebo regression showed that aid also predicted attacks, suggesting a broader pattern of U.S. involvement—military or economic—being associated with instability. This raises policy questions about how aid is delivered and perceived on the ground. This supports earlier research conducted on the U.S. intervention in Libya and the subequent political instability that followed. Still, my findings are not conclusive. The data is limited, and the models likely omit key variables, such as local political dynamics, ethnic tensions, or the role of non-U.S. actors.
+
+Future research could strengthen this analysis by using subnational data, exploring different types of intervention, or incorporating qualitative accounts to contextualize the numbers. Most importantly, my analysis could be strengthened by increasing the pool of data to include more countries; however, finding datasets that encompasses all the necessary data needed is a challenge.
