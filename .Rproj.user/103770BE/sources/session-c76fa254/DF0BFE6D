@@ -1,26 +1,25 @@
 {
-    "id": "A52DB40F",
-    "path": "~/GitHub/psci3200_kaynath.github.io/index.qmd",
-    "project_path": "index.qmd",
+    "id": "DF0BFE6D",
+    "path": "~/GitHub/psci3200_kaynath/index.qmd",
+    "project_path": null,
     "type": "quarto_markdown",
-    "hash": "3781920166",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1746945168563.0,
+    "created": 1746946902583.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 3,
     "properties": {
+        "rmdVisualMode": "false",
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "1,21",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1746945419,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746945419687,
+    "last_content_update": 1746945419,
     "read_only": false,
     "read_only_alternatives": []
 }
